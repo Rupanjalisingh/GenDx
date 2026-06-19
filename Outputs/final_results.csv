@@ -1,0 +1,5 @@
+Model,Accuracy
+Baseline CNN,94.42
+Imbalanced CNN,94.27
+Traditional Augmentation,93.47
+GenAI Augmentation,95.58
